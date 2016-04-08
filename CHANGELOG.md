@@ -2,6 +2,7 @@
 
 ## WIP
 
+- Added support for systemd user units (.service files) (via @ToostInc)
 - Add support for PhpStorm 2016.1 (via @driesvints)
 - Added linux support for Audacious (via @doubleloop)
 - Add support for IntelliJ IDEA 2016.1 (via @jcgay)
